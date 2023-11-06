@@ -13,4 +13,4 @@ This project is written in CSS -HTML.
 
 <h2>Screenshot<h2>
 
-![](java cours.gif)
+![](/java%20cours.gif)
